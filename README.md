@@ -1,4 +1,4 @@
-# Hi, I'm Sathih 👋
+# Hi, I'm Sathish 👋
 BIM Technology Specialist | Revit API Developer (C#, WPF)
 
 ## 🔧 What I'm building

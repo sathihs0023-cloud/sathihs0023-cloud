@@ -14,6 +14,10 @@
 
 </div>
 
+<div align="center">
+  <img src="./dubai-tower-3d.gif" width="560" alt="3D Dubai tower"/>
+</div>
+
 ---
 
 ## 👤 About Me

@@ -9,4 +9,4 @@ BIM Technology Specialist | Revit API Developer (C#, WPF)
 C# · .NET · WPF · Revit API · Dynamo · Python
 
 ## 📫 Connect
-[LinkedIn](your-link) · sathihs0023@email.com
+[LinkedIn](your-link) · sathihs0023@gmail.com
